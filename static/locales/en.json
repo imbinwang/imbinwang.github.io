@@ -1,0 +1,43 @@
+{
+  "website":{
+    "title": "Bin's homepage"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Publications",
+    "career": "Education",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I am a PhD student at School of Computer Science and Technology, Shandong University. I am advised by Dr. Fan Zhong and Prof. Xueying Qin. My research interests are in Computer Vision and Augmented Reality, and my recent work focuses on 3D object tracking and 6 DoF pose estimation. I am also interested in Robotics and Deep Learning. I enjoy simple and ordinary things, so I am recording my life by photographs. Running is my favorite sport, and I started running at 2015."
+  },
+  "skills":{
+    "my_skills": "Skills"
+  },
+  "projects":{
+    "my_projects": "Publications"
+  },
+  "career":{
+    "my_career": "Educations",
+    "sdu_a": "School of Computer Science and Technology, Shandong University",
+    "sdu_a_desc": "PhD candidate(Joint Master-Doctor Program) in Comptuer Science and Technology",
+	"sdu_a_advisor": "Advised by Prof. Xueying Qin",
+	"sdu_a_date": "Sep. 2012 - Now",
+    "sdu_a_job": "PhD candidate",
+    "sdu_b": "Softeware College, Shandong University",
+    "sdu_b_desc": "Bachelor degree in Software Engineering",
+    "sdu_b_date": "Sep. 2008 - Jun. 2012",
+    "sdu_b_job": "Undergraduate"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Link"
+  }
+
+}

@@ -1,0 +1,18 @@
+# links section data
+- last_name: Xueying
+  first_name: Qin
+  desc: Professor
+  website: http://vr.sdu.edu.cn/~qxy/index.htm
+  email: qxy@sdu.edu.cn
+
+- last_name: Fan
+  first_name: Zhong
+  desc: Associate Professor
+  website: http://irc.cs.sdu.edu.cn/~fanzhong/
+  email: zhongfan@sdu.edu.cn
+
+- last_name: SDU
+  first_name: 
+  desc: Shandong University
+  website: http://en.sdu.edu.cn/
+  email: 

@@ -1,0 +1,59 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Bin
+description: 'Bin Wang, a CS Ph.D. student enjoys the daily Grind.'
+keywords: Bin Wang,SDU,Phd,blog,Jekyll,github
+baseurl:  
+#url: http://imbinwang.github.io  # url should be 'http://<github_username>.github.io'
+url: http://127.0.0.1:4000
+img_path: /static/assets/img/blog  # url should be '/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: Bin  # Be used at blog posts' author.
+  first_name: Bin  # Be used at index page about me section.
+  last_name: Wang  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  github_username: imbinwang  # Leave blank if you don't have now
+  linkedin_id:  # Leave blank if you don't have now
+  facebook_username:   # Leave blank if you don't have now
+  twitter_username:   # Leave blank if you don't have now
+  email: binwangsdu@gmail.com  # Leave blank if you don't have now
+  cv:   # A online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: icon-shell
+    - name: icon-apache
+  skill_icon2:
+    - name: fa-linux
+    - name: fa-camera
+  desc: I am a PhD student at School of Computer Science and Technology, Shandong University. I am advised by Dr. Fan Zhong and Prof. Xueying Qin. My research interests are in Computer Vision and Augmented Reality, and my recent work focuses on 3D object tracking and 6 DoF pose estimation. I am also interested in Robotics and Deep Learning. I enjoy simple and ordinary things, so I am recording my life by photographs. Running is my favorite sport, and I started running at 2015. # Describe yourself.
+
+# comment
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: binwang
+  public_key: V6cXAp2zapMpq1HWh5oYwPYJidQJzWn7pzHJeKcZPCq1DkbQftxp7rcg0jze4Spo
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+   id: UA-62083650-1
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
+
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

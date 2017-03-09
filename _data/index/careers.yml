@@ -1,0 +1,36 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: School of Computer Science and Technology, Shandong University
+    i18n: sdu_a
+  desc:
+    detail: PhD candidate(Joint Master-Doctor Program) in Comptuer Science and Technology
+    i18n: sdu_a_desc
+  advisor:
+    detail: Advised by Prof. Xueying Qin
+    i18n: sdu_a_advisor
+  date:
+    detail: Sep. 2012 - Now
+    i18n: sdu_a_date
+  job:
+    detail: PhD candidate
+    i18n: sdu_a_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Softeware College, Shandong University
+    i18n: sdu_b
+  desc:
+    detail: Bachelor degree in Software Engineering
+    i18n: sdu_b_desc
+  advisor:
+    detail: 
+    i18n: 
+  date:
+    detail: Sep. 2008 - Jun. 2012
+    i18n: sdu_b_date
+  job:
+    detail: Undergraduate
+    i18n: sdu_b_job
+  icon: fa-graduation-cap
+

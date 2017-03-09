@@ -1,0 +1,19 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: GOS
+  i18n: gos
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/gos.png
+  pdf: /static/assets/pdf/landing/2015_TVC_Textureless3DObjectTracking.pdf
+  desc: Wang Bin, Chen Wenzheng, Zhong Fan, Tu Changhe, Qin Xueying, Peng qunsheng. Global optimal searching for textureless 3D object tracking. The Visual Computer, 2015, 31(6-8), p.979-988
+
+- name: RGBD_SEG
+  i18n: rgbd_seg
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/rgbd_seg.png
+  pdf: /static/assets/pdf/landing/2015_JCADCG_RGBDVideoSegmentation.pdf
+  desc: Guofeng Wang, Bin Wang, Fan Zhong, Xueying Qin, Baoquan Chen. RGBD Video Segmentation via Geodesic Spatio Temporal Propagation. Journal of Computer Aided Design and Computer Graphics, 2015, 27(10), p.1816-1822 (in Chinese)
+
