@@ -1,0 +1,12 @@
+<div class="social-icons">
+  <div class="left">
+    {% if site.github_username %}
+      <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
+    {% endif %}
+    {% if site.weibo_username %}
+      <a class="fa fa-weibo" href="http://weibo.com/{{ site.weibo_username }}"></a>
+    {% endif %}
+    <a class="fa fa-rss" href="{{ "/atom.xml" | prepend: site.baseurl }}"></a>
+  </div>
+</div>
+<div class="clearfix"></div>

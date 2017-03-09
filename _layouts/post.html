@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% include post_header.html %}
+
+<article class="post-content">
+  {{ content }}
+</article>
+
+<br>
+{% if site.disqus_shortname and  page.comments == true %}
+  {% include disqus.html %}
+{% endif %}
+
+<br>
+{% if site.show_related_posts %}
+  {% include related_posts.html %}
+{% endif %}

@@ -1,0 +1,45 @@
+# Dependencies
+markdown: kramdown
+redcarpet:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+excerpt_separator: <!--more-->
+
+# Permalinks
+permalink: /blog/:title
+timezone: Asia/Shanghai
+
+# Setup
+title: Bin Wang
+description: 'A CS Ph.D. Student Enjoys the Daily Grind.'
+baseurl:     ''
+url:         'http://imbinwang.github.io'
+
+author:
+  name: 'Bin Wang'
+  url: https://github.com/imbinwang
+  email: binwangsdu@gmail.com
+
+sass:
+  sass_dir: _scss
+  compressed: true
+
+paginate: 5
+
+# Custom vars
+show_related_posts: false
+animated: true
+
+# disqus
+# show_disqus_comments: false
+disqus_shortname: binwang
+
+# Social icons
+show_social_icons: true
+github_username: imbinwang
+weibo_username: IamBinWang
+
+google_analytics: UA-62083650-1
+
+
