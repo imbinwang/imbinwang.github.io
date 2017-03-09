@@ -12,7 +12,7 @@
 
   <title>
     {% if page.title != "index" %}
-        {{ site.title }}|{{ page.title }}
+        {{ site.title }}
     {% else %}
         {{ site.title }}
     {% endif %}
@@ -89,4 +89,16 @@
         $("pre").css('display','block');
     });
   </script>
+  
+  <!--Load Mathjax-->
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({
+		tex2jax: {
+		  inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+		  displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+		  processEscapes: true
+		}
+	  });
+	</script>
+	<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </head>
