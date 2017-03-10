@@ -26,9 +26,6 @@ permalink: /blog/
                             {{ post.title }}
                         </a>
                         <div class="vote-info">
-                        {% if site.disqus %}
-                            <i class="fa fa-comments-o"> </i> <a>Comments (<span class='disqus-comment-count' data-disqus-url="{{ site.url }}{{ post.url }}">0</span>)</a>
-                        {% endif %}
                             <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>
                         </div>
