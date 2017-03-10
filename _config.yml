@@ -5,8 +5,8 @@ title: Bin
 description: 'Bin Wang, a CS Ph.D. student enjoys the daily Grind.'
 keywords: Bin Wang,SDU,Phd,blog,Jekyll,github
 baseurl:  
-#url: http://imbinwang.github.io  # url should be 'http://<github_username>.github.io'
-url: http://127.0.0.1:4000
+url: http://imbinwang.github.io  # url should be 'http://<github_username>.github.io'
+#url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/static/assets/img/blog' as before
 
 # author -- index page "about me" section
