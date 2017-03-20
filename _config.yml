@@ -9,6 +9,8 @@ url: http://imbinwang.github.io  # url should be 'http://<github_username>.githu
 #url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/static/assets/img/blog' as before
 
+permalink: /:categories/:title
+
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Bin  # Be used at blog posts' author.
