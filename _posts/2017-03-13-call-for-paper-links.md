@@ -27,7 +27,7 @@ icon: fa-book
 - [**ACCV2018**]，截稿日期：5月或6月
 
 ### 国内会议（2017年4月起） ###
-- [**ChinaGraph2017**]，截稿日期：5月
+- [**CAD&CG 2017**](http://cadcg2017.csu.edu.cn/)，截稿日期：4月9日
 - [**CCCV2017**](http://ccf-cccv.org/2017/)，截稿日期：5月31日
 
 Updated at 2017.03.13
