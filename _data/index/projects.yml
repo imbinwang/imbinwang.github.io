@@ -1,7 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: GOS
+- name: EDF_3D_TRACKER
+  i18n: edft
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/edft.png
+  pdf: /static/assets/pdf/landing/2017_CGI_EDFT.pdf
+  desc: Bin Wang, Fan Zhong, Xueying Qin. Pose optimization in edge distance field for textureless 3D object tracking. CGI, 2017
+
+- name: GOS_3D_TRACKER
   i18n: gos
   gh_user:
   repo:
@@ -9,7 +17,7 @@
   pdf: /static/assets/pdf/landing/2015_TVC_Textureless3DObjectTracking.pdf
   desc: Guofeng Wang, Bin Wang, Fan Zhong, Xueying Qin, Baoquan Chen. Global optimal searching for textureless 3D object tracking. The Visual Computer, 2015, 31(6-8), p.979-988
 
-- name: RGBD_SEG
+- name: RGBD_SEGMENTATION
   i18n: rgbd_seg
   gh_user:
   repo:
