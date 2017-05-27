@@ -6,8 +6,8 @@
   gh_user:
   repo:
   img: /static/assets/img/landing/edft.png
-  pdf: /static/assets/pdf/landing/2017_CGI_EDFT.pdf
-  desc: Bin Wang, Fan Zhong, Xueying Qin. Pose optimization in edge distance field for textureless 3D object tracking. CGI, 2017
+  pdf: 
+  desc: Ongoing work 
 
 - name: GOS_3D_TRACKER
   i18n: gos
