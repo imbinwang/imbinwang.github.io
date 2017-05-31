@@ -20,3 +20,4 @@ AR增强现实涉及一系列技术解决方案，包括硬件（显示设备，
 - [Vision and Robotics Group, Princeton University](http://robots.princeton.edu/)(美国 普林斯顿大学)
 - [Computer Vision Lab, Dresden University of Technology](http://cvlab-dresden.de/)(德国 德累斯顿工业大学)
 - [Computer Vision Group, Zhejiang University](http://www.zjucvg.net/) (中国 浙江大学)
+- [Institute of Computer Graphics and Vision, Graz University of Technology](https://www.tugraz.at/institute/icg/home/)(奥地利 格拉茨大学)
