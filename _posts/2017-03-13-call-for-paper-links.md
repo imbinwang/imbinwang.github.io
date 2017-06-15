@@ -16,7 +16,7 @@ icon: fa-book
 - [**BMVC2017**](https://bmvc2017.london/)，截稿日期：4月25日
 - [**PG2017**](http://www.siggraph.org.tw/pg2017/)，截稿日期：4月30日
 - [**3DV2017**](http://irc.cs.sdu.edu.cn/3dv/index.html)，截稿日期：7月19日
-- [**VR2018**]，截稿日期：9月
+- [**VR2018**](http://ieeevr.org/2018/contribute/papers.html)，截稿日期：9月4日
 - [**WACV2018**](http://wacv18.uccs.us/)，截稿日期：9月或10月
 - [**CVPR2018**](http://cvpr2018.thecvf.com/)，截稿日期：11月
 - [**ICPR2018**](http://www.icpr2018.net/)，截稿日期：1月5日
@@ -27,7 +27,7 @@ icon: fa-book
 - [**ACCV2018**]，截稿日期：5月或6月
 
 ### 国内会议（2017年4月起） ###
-- [**CAD&CG 2017**](http://cadcg2017.csu.edu.cn/)，截稿日期：4月9日
+- [**CAD&CG 2017**](http://cadcg.tju.edu.cn/)，截稿日期：6月15日
 - [**CCCV2017**](http://ccf-cccv.org/2017/)，截稿日期：5月31日
 
 Updated at 2017.03.13
