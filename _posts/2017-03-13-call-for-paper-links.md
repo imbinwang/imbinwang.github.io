@@ -17,7 +17,7 @@ icon: fa-book
 - [**PG2017**](http://www.siggraph.org.tw/pg2017/)，截稿日期：4月30日
 - [**3DV2017**](http://irc.cs.sdu.edu.cn/3dv/index.html)，截稿日期：7月19日
 - [**VR2018**](http://ieeevr.org/2018/contribute/papers.html)，截稿日期：9月4日
-- [**CVM2018**](http://www.iccvm.org/2018/)，截稿日期：9月11日
+- [**CVM2018**](http://www.iccvm.org/2018/)，截稿日期：9月11日
 - [**WACV2018**](http://wacv18.uccs.us/)，截稿日期：9月或10月
 - [**CVPR2018**](http://cvpr2018.thecvf.com/)，截稿日期：11月
 - [**ICPR2018**](http://www.icpr2018.net/)，截稿日期：1月5日
