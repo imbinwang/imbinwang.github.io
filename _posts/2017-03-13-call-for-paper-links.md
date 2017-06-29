@@ -17,11 +17,12 @@ icon: fa-book
 - [**PG2017**](http://www.siggraph.org.tw/pg2017/)，截稿日期：4月30日
 - [**3DV2017**](http://irc.cs.sdu.edu.cn/3dv/index.html)，截稿日期：7月19日
 - [**VR2018**](http://ieeevr.org/2018/contribute/papers.html)，截稿日期：9月4日
+- [**CVM2018**](http://www.iccvm.org/2018/)，截稿日期：9月11日
 - [**WACV2018**](http://wacv18.uccs.us/)，截稿日期：9月或10月
 - [**CVPR2018**](http://cvpr2018.thecvf.com/)，截稿日期：11月
 - [**ICPR2018**](http://www.icpr2018.net/)，截稿日期：1月5日
 - [**ICIP2018**]，截稿日期：1月或2月
-- [**CGI2018**]，截稿日期：2月
+- [**CGI2018**]，截稿日期：2月12日
 - [**ECCV2018**](https://eccv2018.org/)，截稿日期：3月
 - [**ISMAR2018**]，截稿日期：3月或4月
 - [**ACCV2018**]，截稿日期：5月或6月
@@ -30,9 +31,7 @@ icon: fa-book
 - [**CAD&CG 2017**](http://cadcg.tju.edu.cn/)，截稿日期：6月15日
 - [**CCCV2017**](http://ccf-cccv.org/2017/)，截稿日期：5月31日
 
-Updated at 2017.03.13
-
-
-
+Updated at 2017.06.29
+ 
 
 
