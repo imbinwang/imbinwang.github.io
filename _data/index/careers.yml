@@ -4,7 +4,7 @@
     detail: School of Computer Science and Technology, Shandong University
     i18n: sdu_a
   desc:
-    detail: PhD candidate(Joint Master-Doctor Program) in Comptuer Science and Technology
+    detail: PhD candidate (Joint Master-Doctor Program) in Comptuer Science and Technology
     i18n: sdu_a_desc
   advisor:
     detail: Advised by Prof. Xueying Qin
@@ -21,7 +21,7 @@
     detail: Softeware College, Shandong University
     i18n: sdu_b
   desc:
-    detail: Bachelor degree in Software Engineering
+    detail: Bachelor Degree in Software Engineering
     i18n: sdu_b_desc
   advisor:
     detail: 
