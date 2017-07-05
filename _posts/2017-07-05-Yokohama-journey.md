@@ -32,18 +32,22 @@ icon: fa-coffee
 ### Day 2 ###
 
 - 酒店提供的早餐，比较西式。
+
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170629_084708_HDR.jpg" width="60%">
 
 - 上午到达CGI'17的会场，应庆义塾大学日吉校区。会场在来往舍，路上和秦老师还说到为什么会场名字被翻译得这么奇怪，会场的硬件设施还是很好的，优于山大大山坡 (T＿T)。后来在会场和一个留日的朋友交流才知道，应庆义塾大学是日本最早的私立学校，比较贵族。整个校园看起来确实非常干净。
+
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_150714_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_150631_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_134446_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_134934_HDR.jpg" width="60%">
 
 - 中午的午饭在一家日式餐馆，味道还可以。
+
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_123626_HDR.jpg" width="60%">
 
 - 下午一个人去了横滨港附近，有个山下公园，海港非常干净，傍晚的天空很漂亮。路线：中华街-冰川丸-大栈桥-摩天轮-红砖仓库。一下午逛了横滨的精华地区，可以说非常满足了。
+
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_155827_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_161948_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_165453_HDR.jpg" width="60%">
@@ -53,6 +57,7 @@ icon: fa-coffee
 ### Day 3 ###
 
 - 会议的晚宴在东京湾的游艇上，酒足饭饱后，迎着晚风，看着夜景。
+
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170629_181421_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170629_183012_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170629_191745_HDR.jpg" width="60%">
@@ -60,9 +65,11 @@ icon: fa-coffee
 ### Day 4 ###
 
 - 我的报告，不算太差。
+
 <img src="{{ site.img_path }}/Yokohama-journey/2336544aea15786d.jpg" width="60%">
 
 - 报告完，留日的朋友作向导去采购了一些电子产品和日本糕点。完了，终于去吃了一次日本拉面，感觉很像泡面，不过味道很棒。
+
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170630_181028_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170630_180858_HDR.jpg" width="60%">
 
