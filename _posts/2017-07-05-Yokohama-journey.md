@@ -26,28 +26,28 @@ icon: fa-coffee
 
 ### Day 1 ###
 
-- 到达东京羽田机场的时候，天并未黑。下飞机的第一件事情就是换上手机流量卡。出机场后的第一件事情就是买地铁票，去酒店。虽然行前都已查好换乘路线，但是在面对错综复杂的地铁线路时，我还是懵逼了好一会才在自动购票机上买了票。到酒店已经快10点了，用蹩脚的英语check-in。
+到达东京羽田机场的时候，天并未黑。下飞机的第一件事情就是换上手机流量卡。出机场后的第一件事情就是买地铁票，去酒店。虽然行前都已查好换乘路线，但是在面对错综复杂的地铁线路时，我还是懵逼了好一会才在自动购票机上买了票。到酒店已经快10点了，用蹩脚的英语check-in。
 
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170627_195248_HDR.jpg" width="60%">
 
 ### Day 2 ###
 
-- 酒店提供的早餐，比较西式。
+酒店提供的早餐，比较西式。
 
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170629_084708_HDR.jpg" width="60%">
 
-- 上午到达CGI'17的会场，应庆义塾大学日吉校区。会场在来往舍，路上和秦老师还说到为什么会场名字被翻译得这么奇怪，会场的硬件设施还是很好的，优于山大大山坡 (T＿T)。后来在会场和一个留日的朋友交流才知道，应庆义塾大学是日本最早的私立学校，比较贵族。整个校园看起来确实非常干净。
+上午到达CGI'17的会场，应庆义塾大学日吉校区。会场在来往舍，路上和秦老师还说到为什么会场名字被翻译得这么奇怪，会场的硬件设施还是很好的，优于山大大山坡 (T＿T)。后来在会场和一个留日的朋友交流才知道，应庆义塾大学是日本最早的私立学校，比较贵族。整个校园看起来确实非常干净。
 
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_150714_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_150631_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_134446_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_134934_HDR.jpg" width="60%">
 
-- 中午的午饭在一家日式餐馆，味道还可以。
+中午的午饭在一家日式餐馆，味道还可以。
 
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_123626_HDR.jpg" width="60%">
 
-- 下午一个人去了横滨港附近，有个山下公园，海港非常干净，傍晚的天空很漂亮。路线：中华街-冰川丸-大栈桥-摩天轮-红砖仓库。一下午逛了横滨的精华地区，可以说非常满足了。
+下午一个人去了横滨港附近，有个山下公园，海港非常干净，傍晚的天空很漂亮。路线：中华街-冰川丸-大栈桥-摩天轮-红砖仓库。一下午逛了横滨的精华地区，可以说非常满足了。
 
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_155827_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170628_161948_HDR.jpg" width="60%">
@@ -57,7 +57,7 @@ icon: fa-coffee
 
 ### Day 3 ###
 
-- 会议的晚宴在东京湾的游艇上，酒足饭饱后，迎着晚风，看着夜景。
+会议的晚宴在东京湾的游艇上，酒足饭饱后，迎着晚风，看着夜景。
 
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170629_181421_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170629_183012_HDR.jpg" width="60%">
@@ -65,16 +65,17 @@ icon: fa-coffee
 
 ### Day 4 ###
 
-- 我的报告，不算太差。
+我的报告，不算太差。
 
 <img src="{{ site.img_path }}/Yokohama-journey/2336544aea15786d.jpg" width="60%">
 
-- 报告完，留日的朋友作向导去采购了一些电子产品和日本糕点。完了，终于去吃了一次日本拉面，感觉很像泡面，不过味道很棒。
+报告完，留日的朋友作向导去采购了一些电子产品和日本糕点。完了，终于去吃了一次日本拉面，感觉很像泡面，不过味道很棒。
 
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170630_181028_HDR.jpg" width="60%">
 <img src="{{ site.img_path }}/Yokohama-journey/IMG_20170630_180858_HDR.jpg" width="60%">
 
 ### Day 5 ###
-- 打道回府。我的胃想念国内的食物了。
+
+打道回府。我的胃想念国内的食物了。
 
 最后，非常感谢钟老师和秦老师的指导，才会有这篇论文，借此才有我的第一次国外之行。
