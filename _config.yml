@@ -14,8 +14,8 @@ permalink: /:categories/:title
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Bin  # Be used at blog posts' author.
-  first_name: Bin  # Be used at index page about me section.
-  last_name: Wang  # Be used at index page about me section.
+  first_name: Bin Wang  # Be used at index page about me section.
+  last_name:   # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: imbinwang  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
