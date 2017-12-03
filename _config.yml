@@ -34,8 +34,8 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: Homepage
-  public_key: V6cXAp2zapMpq1HWh5oYwPYJidQJzWn7pzHJeKcZPCq1DkbQftxp7rcg0jze4Spo
+  #name: Homepage
+  #public_key: V6cXAp2zapMpq1HWh5oYwPYJidQJzWn7pzHJeKcZPCq1DkbQftxp7rcg0jze4Spo
 
 # analytics
 ## google analytics
