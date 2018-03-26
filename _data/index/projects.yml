@@ -1,13 +1,21 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: ActiveAssemblyGuidance
+  i18n: aag
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/aag.png
+  pdf: 
+  desc: Bin Wang, Guofeng Wang, Andrei Sharf, Yangyan Li, Fan Zhong, Xueying Qin, Daniel CohenOr, Baoquan Chen. Active Assembly Guidance with Online Video Parsing. IEEE VR 2018.
+
 - name: EDF_3D_TRACKER
   i18n: edft
   gh_user:
   repo:
   img: /static/assets/img/landing/edft.png
   pdf: /static/assets/pdf/landing/2017_CGI_a32_wang.pdf
-  desc: Bin Wang, Fan Zhong, Xueying Qin. Pose Optimization in Edge Distance Field for Textureless 3D Object Tracking. In Proceedings of CGI'17.
+  desc: Bin Wang, Fan Zhong, Xueying Qin. Pose Optimization in Edge Distance Field for Textureless 3D Object Tracking. Computer Graphics International 2017.
 
 - name: GOS_3D_TRACKER
   i18n: gos
