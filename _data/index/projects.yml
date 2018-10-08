@@ -1,12 +1,20 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: EDF_3D_TRACKER+
+  i18n: edft+
+  gh_user:
+  repo:
+  img: /static/assets/img/landing/edftplus.png
+  pdf: 
+  desc: Bin Wang, Fan Zhong, Xueying Qin. Robust Edge-based 3D Object Tracking with Direction-based Pose Validation. Accepted by Multimedia Tools and Applications.
+
 - name: ActiveAssemblyGuidance
   i18n: aag
   gh_user:
   repo:
   img: /static/assets/img/landing/aag.png
-  pdf: 
+  pdf: /static/assets/pdf/landing/2018_IEEE_VR_ActiveAssemblyGuidance.pdf
   desc: Bin Wang, Guofeng Wang, Andrei Sharf, Yangyan Li, Fan Zhong, Xueying Qin, Daniel CohenOr, Baoquan Chen. Active Assembly Guidance with Online Video Parsing. IEEE VR 2018.
 
 - name: EDF_3D_TRACKER
