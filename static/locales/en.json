@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a PhD student in Computer Science and Technology at Shandong University under the supervision of Dr. Fan Zhong and Prof. Xueying Qin. My research interests are mainly in 3D computer vision for augmented reality, including 3D object tracking and 6DoF pose estimation. I am also interested in Robotics and Deep Learning. I enjoy simple and ordinary things, so I am recording my life by photographs. Running is my favorite sport, and I started running at 2015."
+    "des": "I am a Senior Reseacher at Netease. Before that I received my Ph.D degree from Shandong University under the supervision of Dr. Fan Zhong and Prof. Xueying Qin. My research interests are mainly in 3D computer vision, including 3D rigid object tracking, 6DoF pose estimation and 3D human pose estimation."
   },
   "skills":{
     "my_skills": "Skills"
@@ -26,7 +26,7 @@
     "sdu_a": "School of Computer Science and Technology, Shandong University",
     "sdu_a_desc": "PhD candidate(Joint Master-Doctor Program) in Comptuer Science and Technology",
 	"sdu_a_advisor": "Advised by Prof. Xueying Qin",
-	"sdu_a_date": "Sep. 2012 - Now",
+	"sdu_a_date": "Sep. 2012 - Dec. 2018",
     "sdu_a_job": "PhD candidate",
     "sdu_b": "Softeware College, Shandong University",
     "sdu_b_desc": "Bachelor degree in Software Engineering",
