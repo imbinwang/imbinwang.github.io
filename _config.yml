@@ -30,7 +30,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: fa-camera
-  desc: I am a Senior Reseacher at Netease. Before that I received my Ph.D degree from Shandong University under the supervision of Dr. Fan Zhong and Prof. Xueying Qin. My research interests are mainly in 3D computer vision, including 3D rigid object tracking, 6DoF pose estimation and 3D human pose estimation. # Describe yourself.
+  desc: I am a Senior Reseach Engineer at Netease. Before that I received my Ph.D degree from Shandong University under the supervision of Dr. Fan Zhong and Prof. Xueying Qin. My research interests are mainly in 3D computer vision, including 3D rigid object tracking, 6DoF pose estimation and 3D human pose estimation. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
