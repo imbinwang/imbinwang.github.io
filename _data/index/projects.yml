@@ -14,7 +14,7 @@
   gh_user:
   repo:
   img: /static/assets/img/landing/aag.png
-  pdf: /static/assets/pdf/landing/2018_IEEE_VR_ActiveAssemblyGuidance.pdf
+  pdf: 
   desc: Bin Wang, Guofeng Wang, Andrei Sharf, Yangyan Li, Fan Zhong, Xueying Qin, Daniel CohenOr, Baoquan Chen. Active Assembly Guidance with Online Video Parsing. IEEE VR 2018.
 
 - name: EDF_3D_TRACKER
@@ -22,7 +22,7 @@
   gh_user:
   repo:
   img: /static/assets/img/landing/edft.png
-  pdf: /static/assets/pdf/landing/2017_CGI_a32_wang.pdf
+  pdf: 
   desc: Bin Wang, Fan Zhong, Xueying Qin. Pose Optimization in Edge Distance Field for Textureless 3D Object Tracking. Computer Graphics International 2017.
 
 - name: GOS_3D_TRACKER
@@ -30,7 +30,7 @@
   gh_user:
   repo:
   img: /static/assets/img/landing/gos.png
-  pdf: /static/assets/pdf/landing/2015_TVC_Textureless3DObjectTracking.pdf
+  pdf: 
   desc: Guofeng Wang, Bin Wang, Fan Zhong, Xueying Qin, Baoquan Chen. Global Optimal Searching for Textureless 3D Object Tracking. The Visual Computer, 2015, 31(6-8), p.979-988
 
 - name: RGBD_SEGMENTATION
@@ -38,6 +38,6 @@
   gh_user:
   repo:
   img: /static/assets/img/landing/rgbd_seg.png
-  pdf: /static/assets/pdf/landing/2015_JCADCG_RGBDVideoSegmentation.pdf
+  pdf: 
   desc: Wang Bin, Chen Wenzheng, Zhong Fan, Tu Changhe, Qin Xueying, Peng Qunsheng. RGBD Video Segmentation via Geodesic Spatio Temporal Propagation. Journal of Computer Aided Design and Computer Graphics, 2015, 27(10), p.1816-1822 (in Chinese)
 
